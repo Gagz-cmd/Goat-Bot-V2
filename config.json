@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "kipe jerry",
+  "nickNameBot": "♡Gagz Bot♡",
   "prefix": "-",
   "api": "https://www.noobs-api.rf.gd/dipto",
   "approval": false,
@@ -31,16 +31,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61572445660138"
+    "100038977953437"
   ],
   "mainAdmin": [
-    "61572445660138"
+    "100038977953437"
   ],
   "whiteListMode": {
     "enable": true,
     "whiteListIds": [
-      "61552258402755",
-      "100044327656712"
+      "100038977953437 ",
+      
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
